@@ -8,6 +8,6 @@ So, I created this repo to house some Nigeria maps to help you in your project.
 If you don't find what you want here, then you probably nedd something customized. Contact me at: www.UmarYusuf.com (Tel: +2348039508010) and I will help you produce one.
 
 
-Happy mapping
-www.UmarYusuf.com
+Happy mapping<br />
+www.UmarYusuf.com<br />
 Tel: +2348039508010
